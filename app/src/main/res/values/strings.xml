@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShowGoogleMap</string>
+    <string name="API_KEY">AIzaSyB0OJ_gNo927CZ0x6HsWyZKsjAnX_EzywU</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
